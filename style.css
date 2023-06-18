@@ -1,0 +1,54 @@
+body {
+    background-color:  #cce0ff;
+    margin: 8%;
+
+}
+#main{
+    margin-top: 10px;
+}
+#title {
+    text-align: center;
+    text-shadow: 5px 5px 10px rgb(255, 0, 0);
+  
+    margin-top: 10px;
+    font-size: 15vh;
+}
+
+img {
+    display: inline-block;
+    width:100%;
+    margin-top: 0%;
+    background-image: url('msd.jpg');
+    background-size: 50vw 30vh; 
+    background-repeat: no-repeat; 
+
+  
+}
+
+#caption {
+    font-size: 17px;
+    font-family: Gill Sans;
+    color: black;
+}
+
+div#tribute-data {
+    background-color: #99ccff;
+    box-shadow: 10px 10px 10px #4d4500;
+    font-family: Georgia;
+    padding: 25px 25px;
+    margin: 11px;
+    margin-top: 50px;
+}
+
+h1.title-msd {
+    font-size: 45px;
+    color:black;
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+}
+
+#tribute-link {
+    text-decoration: none;
+    color: black;
+}
+
